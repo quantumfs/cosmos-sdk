@@ -18,9 +18,8 @@ require (
 	github.com/enigmampc/btcutil v1.0.3-0.20200723161021-e2fb6adb2a25
 	github.com/gogo/gateway v1.1.0
 	github.com/gogo/protobuf v1.3.1
-	github.com/golang/mock v1.4.4
-	github.com/golang/protobuf v1.4.3
-	github.com/golang/snappy v0.0.2 // indirect
+	github.com/golang/mock v1.6.0
+	github.com/golang/protobuf v1.5.2
 	github.com/gorilla/handlers v1.5.1
 	github.com/gorilla/mux v1.8.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.2
@@ -36,23 +35,21 @@ require (
 	github.com/rakyll/statik v0.1.7
 	github.com/regen-network/cosmos-proto v0.3.0
 	github.com/rs/zerolog v1.20.0
-	github.com/spf13/afero v1.2.2 // indirect
 	github.com/spf13/cast v1.3.1
 	github.com/spf13/cobra v1.1.1
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect; indirects
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.7.1
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.8.1
 	github.com/tendermint/btcd v0.1.1
 	github.com/tendermint/crypto v0.0.0-20191022145703-50d29ede1e15
 	github.com/tendermint/go-amino v0.16.0
 	github.com/tendermint/tendermint v0.34.0
 	github.com/tendermint/tm-db v0.6.3
-	golang.org/x/crypto v0.0.0-20201117144127-c1f2f97bffc9
-	golang.org/x/net v0.0.0-20200930145003-4acb6c075d10 // indirect
-	google.golang.org/genproto v0.0.0-20201119123407-9b1e624d6bc4
-	google.golang.org/grpc v1.33.2
-	google.golang.org/protobuf v1.25.0
+	golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa
+	google.golang.org/genproto v0.0.0-20230110181048-76db0878b65f
+	google.golang.org/grpc v1.53.0
+	google.golang.org/protobuf v1.28.1
 	gopkg.in/yaml.v2 v2.4.0
 )
 
